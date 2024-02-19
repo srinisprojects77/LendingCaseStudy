@@ -1,5 +1,5 @@
 # Lending case study
-> Analysing the customer loan existing data and give overview about using various tools learned so far
+> Analysing the customer loan existing data and give overview about using various tools learned so far, for further loan recommendation
 
 ## Table of Contents
 * [General Info](#general-information)
