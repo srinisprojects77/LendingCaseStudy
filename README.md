@@ -1,6 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
-
+# Lending case study
+> Analysing the customer loan existing data and give overview about using various tools learned so far
 
 ## Table of Contents
 * [General Info](#general-information)
